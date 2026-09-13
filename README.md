@@ -2,6 +2,8 @@
 
 An end-to-end Machine Learning regression project that predicts a student's **Math Score** based on demographic and academic background features, deployed via a **Flask** web application.
 
+Deployed link : https://student-performance-prediction-o47s.onrender.com
+
 ---
 
 ## Project Flow
